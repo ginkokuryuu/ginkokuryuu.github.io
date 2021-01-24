@@ -9,8 +9,8 @@ areas.forEach((area, index) => {
     area.addEventListener('mousemove', (e) => {
 
         let rect = area.getBoundingClientRect()
-        let xAxis = (((rect.left + rect.right) / 2) - e.clientX) / 20
-        let yAxis = (((rect.top + rect.bottom) / 2) - e.clientY) / 20
+        let xAxis = (((rect.left + rect.right) / 2) - e.clientX) / 30
+        let yAxis = (((rect.top + rect.bottom) / 2) - e.clientY) / 30
 
         cards[index].style.transform = `rotateX(${yAxis}deg) rotateY(${-xAxis}deg)`
     })
