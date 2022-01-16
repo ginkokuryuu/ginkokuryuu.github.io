@@ -1,0 +1,27 @@
+.profileBox{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    color: #777777;
+    text-align: right;
+    font-weight: 300;
+    font-size: 4rem;
+}
+
+.name .habib{
+    color: #fff;
+    font-weight: 500;
+    font-size: 9.5rem;
+}
+
+.divider{
+    background-color: #fff;
+    width: 0.5rem;
+    height: 25rem;
+    margin: 2rem;
+}
