@@ -49,20 +49,34 @@
         "description": "An AR application to help give tourist an interactive information provider about Jogja's tourism places. The application uses image tracking so it needs a marker for the AR object to spawn.",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.XploriaJogja",
         "technology": "C#, Augmented Reality",
-        "hasImage": false
+        "hasImage": true,
+        "imageSource": [
+            "/images/xploria/1.jpg",
+            "/images/xploria/2.jpg",
+            "/images/xploria/3.jpg",
+            "/images/xploria/4.jpg",
+            "/images/xploria/5.jpg"
+        ]
     },
     {
         "id": 6,
         "title": "Gama Cardiac AR",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR application to study the anatomy of heart. The learning mode has an AR mode so that you can freely look at the 3D heart that is approved by the doctor to be precise, but you don't need to always scan the marker so you can study anywhere. There is Quiz mode so you can test your knowledge about the heart anatomy. There are 3 levels available, Beginner, Intermediate, and Advance",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.ARCardiac",
         "technology": "C#, Augmented Reality",
-        "hasImage": false
+        "hasImage": true,
+        "imageSource": [
+            "/images/gamaCardiac/1.jpg",
+            "/images/gamaCardiac/2.jpg",
+            "/images/gamaCardiac/3.jpg",
+            "/images/gamaCardiac/4.jpg",
+            "/images/gamaCardiac/5.jpg"
+        ]
     },
     {
         "id": 7,
         "title": "Kardinah Virtual Xperience",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR app in collaboration with Kardinah Hospital in Tegal, Indonesia. It has two main function that is giving an interactive information about the hospital and giving navigation inside the building. So you can choose a destination room and then scan the marker available in the hospital to search for a direction.",
         "link": "",
         "technology": "C#, Augmented Reality",
         "hasImage": false
