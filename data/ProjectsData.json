@@ -46,7 +46,7 @@
     {
         "id": 5,
         "title": "XPLORIA Jogja Istimewa",
-        "description": "Driving simulation using Virtual Reality. Using OVR library so it can be used in various Head Mounted Display. Controlled by steering wheel to create immersive experience. Created using Unity Game Engine",
+        "description": "An AR application to help give tourist an interactive information provider about Jogja's tourism places. The application uses image tracking so it needs a marker for the AR object to spawn.",
         "link": "https://play.google.com/store/apps/details?id=com.Arutala.XploriaJogja",
         "technology": "C#, Augmented Reality",
         "hasImage": false
