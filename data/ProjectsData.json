@@ -1,11 +1,33 @@
 [
     {
-        "id": 1,
-        "title": "Auto Route Controller Express JS",
-        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
-        "link": "https://github.com/ginkokuryuu/auto-route-controller",
-        "technology": "Javascript",
-        "hasImage": false
+        "id": 8,
+        "title": "Grey: A Roguelike Game",
+        "description": "This is a roguelike game developed by me as my Final Project in College. This game is a study case for algorithm implementation Cellular Automata. The world in this game is fully procedurally generated without any templates. There are 2 dungeons in this game and 2 Dungeon Boss for you to fight. Upgradde you character to make it easier beating the game!",
+        "link": "https://drive.google.com/file/d/1uLZ7PPebsS6LznLcmD1IInzV46ycWpoe/view?usp=sharing",
+        "technology": "C#, Cellular Automata, Procedural Generation",
+        "hasImage": true,
+        "imageSource": [
+            "/images/grey/1.jpg",
+            "/images/grey/2.jpg",
+            "/images/grey/3.jpg",
+            "/images/grey/4.jpg",
+            "/images/grey/5.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Emak vs Anak",
+        "description": "This is game I made for Global Game Jam 2018 in Surabaya. This game is inspired by Overcooked, but in a different twist. Rather than cooperating to finish the task like in Overcooked, this game is about a child disturbing his mother doing her house chores. The child win if the mother can't finish the task in time, and the mother win if she can finish the task in time. This game is local multiplayer game.",
+        "link": "https://kokuhaku.itch.io/emak-vs-anak",
+        "technology": "C#, Local Multiplayer",
+        "hasImage": true,
+        "imageSource": [
+            "/images/emakVSanak/1.jpg",
+            "/images/emakVSanak/2.jpg",
+            "/images/emakVSanak/3.jpg",
+            "/images/emakVSanak/4.jpg",
+            "/images/emakVSanak/5.jpg"
+        ]
     },
     {
         "id": 2,
@@ -26,6 +48,14 @@
             "/images/ecoflip/eco-9.jpg",
             "/images/ecoflip/eco-10.jpg"
         ]
+    },
+    {
+        "id": 1,
+        "title": "Auto Route Controller Express JS",
+        "description": "This is a library for ExpressJS to add dynamic routing based on your controller. Can adapt to any types of architecture, as long as it is modular. Can be used in non-modular architecture with slight changes",
+        "link": "https://github.com/ginkokuryuu/auto-route-controller",
+        "technology": "Javascript",
+        "hasImage": false
     },
     {
         "id": 3,
